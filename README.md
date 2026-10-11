@@ -20,3 +20,15 @@ ESCAPE_ROOM_FULL_QUALITY_406MB.7z.005
    - Windows: 7-Zip or WinRAR
    - Mac: Keka or The Unarchiver
 3. The full 406.7 MB MP4 comes out as one file.
+
+---
+
+# Yuri v4 – Talk-show "Mom" ad (captioned, 1080x1920)
+
+`yuri_v4_talkshow_mom_captioned.mp4`: 728.8 MB, 1080×1920, 266.9 s. Packed (no compression) into 8 parts in `yuri-v4-talkshow-mom/`:
+
+```
+YURI_V4_TALKSHOW_MOM_CAPTIONED_FULL.7z.001 … .008
+```
+
+Download all 8 into one folder, extract only `.7z.001` (7-Zip / Keka / ZArchiver) and the full MP4 comes out.
