@@ -1,15 +1,13 @@
 # YURI — "I caught my sister crying" (Christine)
 
-Full-size, full-quality captioned MP4, split into three 7z volumes.
+Full video, 1080x1920, 24 fps, 5:06, with burned-in captions.
 
-- 1080x1920, 24 fps, 5:06, H.264 CRF 16
-- Burned-in captions, synced to the voiceover
+Delivered as **3 plain MP4 files** — each one plays on its own and imports straight into CapCut. No 7-Zip, no extracting.
 
-## How to get the video
+| Part | Length |
+|---|---|
+| `YURI_CHRISTINE_PART1_of_3.mp4` | 0:00 – 1:46 |
+| `YURI_CHRISTINE_PART2_of_3.mp4` | 1:46 – 3:27 |
+| `YURI_CHRISTINE_PART3_of_3.mp4` | 3:27 – 5:06 |
 
-1. Download all three files into the **same folder**:
-   - `YURI_CHRISTINE_CAPTIONED_FULL.7z.001`
-   - `YURI_CHRISTINE_CAPTIONED_FULL.7z.002`
-   - `YURI_CHRISTINE_CAPTIONED_FULL.7z.003`
-2. Right-click `.001` → **7-Zip → Extract Here**
-3. You get the single file `YURI_CHRISTINE_CAPTIONED_FULL.mp4`
+Drop all three into CapCut in order 1 → 2 → 3 to get the complete ad.
