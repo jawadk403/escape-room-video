@@ -29,5 +29,9 @@ then a direct-to-camera testimonial).
   spokespersons. Dramatized story. Results may vary."
 - Every spoken line was transcribed and verified word-for-word against the script.
 
-## Download
-[YURI_HELEN_TOP_SPOT_CAPTIONED_1080x1920.mp4](https://github.com/jawadk403/escape-room-video/raw/main/yuri-helen-top-spot/YURI_HELEN_TOP_SPOT_CAPTIONED_1080x1920.mp4)
+## Downloads
+- [Captioned](https://github.com/jawadk403/escape-room-video/raw/main/yuri-helen-top-spot/YURI_HELEN_TOP_SPOT_CAPTIONED_1080x1920.mp4)
+- [Clean (no captions)](https://github.com/jawadk403/escape-room-video/raw/main/yuri-helen-top-spot/YURI_HELEN_TOP_SPOT_CLEAN_1080x1920.mp4)
+
+The clean version has no captions. The b-roll inserts, picture-in-picture panels,
+red X / SARAH label / CTA arrow graphics and the opening disclaimer are still in it.
