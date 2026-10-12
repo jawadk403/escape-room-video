@@ -7,3 +7,5 @@ Download all 3 parts into one folder, then extract **.001** with 7-Zip / WinRAR 
 - YURI_COLLAGEN_MASK_668_CAPTIONED_1080x1920.7z.001
 - YURI_COLLAGEN_MASK_668_CAPTIONED_1080x1920.7z.002
 - YURI_COLLAGEN_MASK_668_CAPTIONED_1080x1920.7z.003
+
+**Single file (no extraction needed):** YURI_COLLAGEN_MASK_668_CAPTIONED_1080x1920.mp4 — same video, one MP4.
