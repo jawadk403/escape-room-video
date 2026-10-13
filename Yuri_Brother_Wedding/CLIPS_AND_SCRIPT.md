@@ -2,6 +2,24 @@
 
 127 clips · 8:33.8 · 1080x1920 · 24fps · Kling 3.0 · no captions · VO trimmed to first and last spoken word
 
+## Finished edit — plain MP4, no archive
+
+**One file (recommended for CapCut):**
+[YURI_FINAL_1080p_single.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_1080p_single.mp4) — 91 MB · 1080x1920 · 24fps · 8:33.8 · VO + SFX + grade
+
+**Full-quality master, in 5 plain MP4 parts** (drag all 5 into the timeline in order — no extracting, cuts are on keyframes so there is no frame loss):
+
+| Part | File |
+|---|---|
+| 1 | [YURI_FINAL_1080p_part1of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_1080p_part1of5.mp4) |
+| 2 | [YURI_FINAL_1080p_part2of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_1080p_part2of5.mp4) |
+| 3 | [YURI_FINAL_1080p_part3of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_1080p_part3of5.mp4) |
+| 4 | [YURI_FINAL_1080p_part4of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_1080p_part4of5.mp4) |
+| 5 | [YURI_FINAL_1080p_part5of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_1080p_part5of5.mp4) |
+
+The 127 raw clips are below, each on its script line.
+
+
 | # | Script time | Line | Clip |
 |---|---|---|---|
 | | | **HOOK — the wedding entrance** | |
