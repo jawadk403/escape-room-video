@@ -16,6 +16,6 @@ Stored with no extra compression (`-mx=0`).
 | `YURI_QUASI_HYDROGEL_CAPTIONED_1080x1920.7z.003` | 95 MiB |
 | `YURI_QUASI_HYDROGEL_CAPTIONED_1080x1920.7z.004` | 40 MiB |
 
-MD5 of the extracted MP4 (340,266,330 bytes): `a4d80089125a66da650a7da6c39ffb95`
+MD5 of the extracted MP4 (340266824 bytes): `c12af133eaeca298de03856d9fc641fc`
 
 Note: footage was generated at 480p (Seedance 2.5) and scaled to 1080x1920 (cubic resample, light unsharp) with film grain; there is no AI upscale.
