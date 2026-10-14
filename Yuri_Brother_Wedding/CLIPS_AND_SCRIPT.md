@@ -1,23 +1,32 @@
 # YURI — “My dad walked into my brother's wedding” (3D Pixar)
 
-127 clips · 8:33.8 · 1080x1920 · 24fps · Kling 3.0 · line-wise burned-in captions · VO trimmed to first and last spoken word
+127 clips · 8:33.8 · 1080x1920 · 24fps · Kling 3.0 · line-wise burned-in captions · VO trimmed to first and last spoken word · grain-free revision
 
-## Finished edit — captioned, plain MP4, no archive
+## Finished edit — one file, no grain, no archive
 
-Line-wise burned-in captions: white bold Inter, thin black outline, no box, max two lines, centred and placed low but inside the safe zone.
+[YURI_FINAL_V2_1080p.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_V2_1080p.mp4) — 93 MB · 1080x1920 · 24fps · 8:33.8 · VO + SFX + grade + line-wise captions
 
-**One file (recommended for CapCut):**
-[YURI_CAPTIONED_1080p_single.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_CAPTIONED_1080p_single.mp4) — 91 MB · 1080x1920 · 24fps · 8:33.8 · VO + SFX + grade + captions
+Single plain MP4. No film grain, lanczos upscale, higher bitrate than the first cut.
 
-**Full-quality master, in 5 plain MP4 parts** (drag all 5 into the timeline in order — no extracting, cuts are on keyframes so there is no frame loss):
+### Clips regenerated in this revision (20 of 127)
 
-| Part | File |
-|---|---|
-| 1 | [YURI_CAPTIONED_1080p_part1of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_CAPTIONED_1080p_part1of5.mp4) |
-| 2 | [YURI_CAPTIONED_1080p_part2of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_CAPTIONED_1080p_part2of5.mp4) |
-| 3 | [YURI_CAPTIONED_1080p_part3of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_CAPTIONED_1080p_part3of5.mp4) |
-| 4 | [YURI_CAPTIONED_1080p_part4of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_CAPTIONED_1080p_part4of5.mp4) |
-| 5 | [YURI_CAPTIONED_1080p_part5of5.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_CAPTIONED_1080p_part5of5.mp4) |
+| # | What was wrong | Fix |
+|---|---|---|
+| 1 | Dad's head kept turning | Camera behind the couple, backs to camera throughout, no head turn |
+| 23, 24 | Skin macro was lying sideways and showed an eye | Upright full-frame skin surface, no facial features |
+| 34 | Label text ran sideways; wrong tube colour and band | Light baby-pink matte tube, polished gold band, all label lines horizontal |
+| 43 | Oversized paddle applicator | Small flat white silicone spatula, gold ferrule, pale pink handle |
+| 44 | Gel hung off the chin as a teardrop, then spread onto the neck | Reframed to a gel macro on skin only — no face, no neck, nothing hanging |
+| 45, 46, 49 | Gel read as white patches and drips | Clear glossy finish sealed flat to the face, nothing dripping |
+| 47 | A patch sat over her eye; coating crept onto the neck | Reframed to a two-shot from behind the sofa — both present, no faces |
+| 48 | Glass shards and neon panels stuck to the cheek | Replaced with a skin-layer cross-section macro |
+| 50, 51, 125 | Peel was a thin thread, then an oversized sheet | Face-sized clear film, peeled by hand; burned-in caption removed from 51 |
+| 66 | Whole frame rotated 90 degrees, guests lying sideways | Upright, level church frame |
+| 90 | Lips in frame plus a red border | Dried cracked foundation swatch, full bleed, no border |
+| 92 | Glowing halo and light rings around her head | Plain warm party lighting |
+| 99 | Blue-grey skin tone | Warm natural skin under lamplight |
+| 109 | Before and after halves looked identical | Clearly different halves, visible at a glance |
+| 123 | A cone in place of a tube; sideways label text | Three correct tubes facing camera, horizontal labels |
 
 The 127 raw clips are below, each on its script line.
 
