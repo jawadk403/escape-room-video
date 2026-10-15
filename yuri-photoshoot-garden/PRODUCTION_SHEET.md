@@ -15,9 +15,15 @@ locked character references on every clip, so the people are photoreal and match
 | Victoria, mid-50s | before — tired, ivory blouse (48.4s / 50.2s); after — radiant, pink floral (325.0s) |
 | Studio assistant | 293.6s |
 
-Product reference: generated YURI tube — matte dusty-rose, ribbed crimped seal, gold band near the base,
-clear ribbed flip-top cap, white label YURI / KOREAN BEAUTY / COLLAGEN NIGHT WRAPPING MASK / 75ML,
-with the flat white **silicone spatula** (gold ferrule, pale-pink matte handle).
+Product reference: **the client's own tube and brush**, photographed by her and cropped from that photo —
+a clean light pink (#E3A8AC) matte body, flat crimped ribbed seal in the same pink, white widely-spaced
+YURI / KOREAN BEAUTY / COLLAGEN NIGHT WRAPPING MASK / 75ML · 2.53 FL.OZ., a **narrow** polished gold ring
+sitting directly above a clear ribbed flip-top cap, and the flat white silicone brush in its wrapper.
+
+The first pass of this ad used a tube built from a written spec instead, which came out greyish and
+dusty-rose. Every clip where the product is handled was regenerated against her photograph: V06 (reveal),
+V07 (demo), V08 (ingredients), V09 ("keep it"), V11 (studio) and V14 (closing). The demo is done with the
+brush, and the tube is in hand on every beat where the dialogue refers to it.
 
 ## Clip plan — Seedance 2.5, 480p, 9:16, native dialogue
 
@@ -32,7 +38,7 @@ coverage inside every clip: wide, medium, over-the-shoulder both ways, reaction 
 | V04 | 5 | 30 | 7 | "like me?" |
 | V05 | 5 | 30 | 4 | tried everything / "then tell me what it is" |
 | V06 | 6 | 30 | 17 | tube reveal (PILOT — checked and approved first) |
-| V07 | 7 | 30 | 5 | hand demo: clear gel, sets, peels off as one film |
+| V07 | 7 | 30 | 5 | hand demo with the brush: clear gel, sets, peels off as one film |
 | V08 | 7 | 30 | 7 | ingredients, sixty days |
 | V09 | 8 | 30 | 8 | the phone call, "keep it" |
 | V10 | 9 | 22 | 5 | TWO MONTHS LATER, studio |
@@ -62,3 +68,11 @@ and a clean driver's-licence macro over the ID beat in V02.
   references, and asking for a natural-colour photo, was what finally matched the character.
 - Higgsfield's upload host is unreachable from this environment; media is imported by URL from this
   repo instead.
+- **Never build the product from a written description.** Ask for the client's own product photo before
+  the first clip and carry it as an image reference on every shot that touches the product — a spec in
+  words got the colour, the gold ring's width and the cap all slightly wrong, and that cost a full
+  round of regenerations late in the job.
+- Seedance will quietly re-cast a character mid-clip in a wide shot. Naming the exact wardrobe and
+  adding "she is NEVER in a patterned dress / there is no third woman" fixed it on the re-roll.
+- Burned-in card text must be measured, not eyeballed: at 1080 wide, DejaVu Sans Bold runs off the
+  frame above roughly 48 px for a 32-character line.

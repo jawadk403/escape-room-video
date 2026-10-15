@@ -34,3 +34,24 @@
 | V14 | closing product + offer | 16 | 48 | 3 earlier attempts blocked by moderation |
 
 Video subtotal: ~1,155 credits
+
+## Product correction — the client's real tube (round 2)
+The tube used above was built from a written spec, not from the client's photograph, so it came out a
+greyish dusty-rose instead of her clean pink. She sent the real tube and brush; both were cropped,
+pushed to the repo, imported to Higgsfield (`0c1ea5a6…` tube, `88cad7ad…` brush) and carried as image
+references on every clip where the product is handled.
+
+| Clip | Content | Model | Secs | Credits | Note |
+|---|---|---|---|---|---|
+| V06 | tube reveal | seedance_2_5 | 30 | 90 | real tube, in hand throughout |
+| V07 | hand demo, brush | seedance_2_5 | 30 | 90 | first take drifted Victoria's wardrobe |
+| V07b | hand demo, brush (re-roll) | seedance_2_5 | 30 | 90 | wardrobe locked, accepted |
+| V08 | ingredients | seedance_2_5 | 30 | 90 | |
+| V09 | phone call, "keep it" | seedance_2_5 | 30 | 90 | tube now in hand on the beat |
+| V11 | studio goodbye | seedance_2_5 | 24 | 72 | |
+| V14 | closing product + offer | wan3_0 | 10 | ~30 | retimed to 16 s in post |
+
+Round-2 subtotal: ~552 credits. Project total: ~1,780 credits.
+
+Also fixed in post (no credits): the burned-in offer card was running off the 1080-wide frame at the
+old font sizes; the three lines were measured and dropped to 42 / 46 / 36 px so nothing clips.
