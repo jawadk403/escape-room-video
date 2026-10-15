@@ -1,12 +1,16 @@
 # YURI — “My dad walked into my brother's wedding” (3D Pixar)
 
-127 clips · 8:33.8 · 1080x1920 · 24fps · Kling 3.0 · line-wise burned-in captions · VO trimmed to first and last spoken word · grain-free revision
+127 clips · 8:33.8 · 1080x1920 · 24fps · Kling 3.0 · captioned and no-caption versions · VO trimmed to first and last spoken word · grain-free revision
 
 ## Finished edit — one file, no grain, no archive
 
+**No captions (latest):**
+[YURI_FINAL_V2_NOCAPTION_1080p.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_V2_NOCAPTION_1080p.mp4) — 93 MB · 1080x1920 · 24fps · 8:33.8 · VO + SFX + grade, no captions
+
+**With line-wise captions:**
 [YURI_FINAL_V2_1080p.mp4](https://raw.githubusercontent.com/jawadk403/escape-room-video/main/Yuri_Brother_Wedding/YURI_FINAL_V2_1080p.mp4) — 93 MB · 1080x1920 · 24fps · 8:33.8 · VO + SFX + grade + line-wise captions
 
-Single plain MP4. No film grain, lanczos upscale, higher bitrate than the first cut.
+Both are single plain MP4s from the same grain-free master. No film grain, lanczos upscale, higher bitrate than the first cut.
 
 ### Clips regenerated in this revision (20 of 127)
 
